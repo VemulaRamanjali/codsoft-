@@ -31,4 +31,4 @@ This repository contains the machine learning projects I completed during my int
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/VemulaRamanjali/codsoft-/tree/main
